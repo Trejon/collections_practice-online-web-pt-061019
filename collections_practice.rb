@@ -29,5 +29,3 @@ def kesha_maker(strings)
   end
   kesha
 end
-
-end
