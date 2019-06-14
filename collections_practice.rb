@@ -30,4 +30,5 @@ def kesha_maker(strings)
   kesha
 end
 
-def 
+def find_a(array)
+  array.select {|string| string.
