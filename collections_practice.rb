@@ -19,3 +19,5 @@ def reverse_array(int)
   r_array = int.reverse
   r_array
 end
+
+def 
