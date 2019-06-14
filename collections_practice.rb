@@ -20,4 +20,14 @@ def reverse_array(int)
   r_array
 end
 
-def 
+def kesha_maker(strings)
+  kesha = []
+  strings.each do |word|
+    word_strings = word.split ""
+    word_strings[2] = "$"
+    kesha << word_strings.join
+  end
+  kesha
+end
+
+end
