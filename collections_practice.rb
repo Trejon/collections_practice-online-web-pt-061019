@@ -3,6 +3,5 @@ def sort_array_asc(array)
 end 
 
 def sort_array_desc(array)
-  array.sort { |first_array, second_array| second_array <=> first_array
+  array.sort { |first_array, second_array| second_array <=> first_array}
 end
-end 
